@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Group11_Final_FaceRecognition
+# **𝑮𝒓𝒐𝒖𝒑 𝟏𝟏 𝑭𝒊𝒏𝒂𝒍: 𝑭𝒂𝒄𝒆 𝑹𝒆𝒄𝒐𝒈𝒏𝒊𝒕𝒊𝒐𝒏**
 
 
 </div>
@@ -14,20 +14,52 @@
     
 &nbsp;&nbsp;&nbsp;&nbsp;Levi Strauss & Co. is one of the world's largest brand-name apparel companies and a global leader in jeanswear. The company designs and markets jeans, casual wear and related accessories for men, women and children under the Levi's®, Dockers®, Signature by Levi Strauss & Co.™, and Denizen® brands. Its products are sold in more than 110 countries worldwide through a combination of chain retailers, department stores, online sites, and a global footprint of approximately 3,000 retail stores and shop-in-shops.
 
-&nbsp;&nbsp;&nbsp;&nbsp;𝖥𝗈𝗋 𝗍𝗁𝗂𝗌 𝗍𝖺𝗌𝗄, 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉 𝗂𝗌 𝗍𝖺𝗌𝗄𝖾𝖽 𝗍𝗈 𝖽𝖾𝗏𝖾𝗅𝗈𝗉 𝖺 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗉𝗋𝗈𝗀𝗋𝖺𝗆 𝗍𝗁𝖺𝗍 𝖼𝖺𝗇 𝗂𝖽𝖾𝗇𝗍𝗂𝖿𝗒 𝖻𝗈𝗍𝗁 𝗎𝗇𝗄𝗇𝗈𝗐𝗇 𝖺𝗇𝖽 𝗄𝗇𝗈𝗐𝗇 𝖿𝖺𝖼𝖾𝗌. 𝖳𝗁𝗂𝗌 𝖺𝖼𝗍𝗂𝗏𝗂𝗍𝗒 𝗆𝗎𝗌𝗍 𝖻𝖾 𝖺𝗅𝗂𝗀𝗇𝖾𝖽 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝗉𝖺𝗌𝗍 𝖺𝖼𝗍𝗂𝗏𝗂𝗍𝗒 𝗍𝗁𝖺𝗍 𝗍𝗁𝗂𝗌 𝗆𝖺𝖽𝖾 𝗈𝖿 𝗆𝖺𝗄𝗂𝗇𝗀 𝖺𝗇 𝗂𝗇𝗍𝖾𝗋𝖺𝖼𝗍𝗂𝗏𝖾 𝖣𝖺𝗌𝗁𝖻𝗈𝖺𝗋𝖽 𝖿𝗈𝗋 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽 𝗈𝖿 Levi's. 𝖳𝗁𝖾 𝗀𝗋𝗈𝗎𝗉 𝗂𝗌 𝗍𝗈 𝗂𝖽𝖾𝗇𝗍𝗂𝖿𝗒 𝖿𝖺𝖼𝖾𝗌 𝗍𝗁𝖺𝗍 𝖺𝗋𝖾 𝗐𝖾𝖺𝗋𝗂𝗇𝗀 Levi's 𝗉𝗋𝗈𝖽𝗎𝖼𝗍𝗌, 𝖺𝗌 𝗐𝖾𝗅𝗅 𝖺𝗌 𝗍𝗁𝗈𝗌𝖾 𝖿𝖺𝖼𝖾𝗌 𝗍𝗁𝖺𝗍 𝖺𝗋𝖾 𝗎𝗇𝗄𝗇𝗈𝗐𝗇 𝖻𝗎𝗍 𝗌𝗍𝗂𝗅𝗅 𝗐𝖾𝖺𝗋𝗂𝗇𝗀 Levi's. 
+</div>
 
+<div align="center">
 
-𝖳𝗁𝖾 𝗀𝗋𝗈𝗎𝗉 𝗎𝗌𝖾𝖽 𝗍𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝖼𝗈𝖽𝖾𝗌 𝗉𝗋𝗈𝗏𝗂𝖽𝖾𝖽 𝖻𝖾𝗅𝗈𝗐:
+---
 
+### 𝐃𝐞𝐧𝐢𝐦 𝐅𝐮𝐬𝐢𝐨𝐧: 𝐋𝐞𝐯𝐢'𝐬 𝐱 𝐍𝐞𝐰𝐉𝐞𝐚𝐧𝐬 𝐔𝐧𝐯𝐞𝐢𝐥𝐬 𝐚 𝐓𝐢𝐦𝐞𝐥𝐞𝐬𝐬 𝐏𝐚𝐫𝐭𝐧𝐞𝐫𝐬𝐡𝐢𝐩
+
+---
 
 </div>
 
-### ✅𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐅𝐚𝐜𝐞_𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+<p align="center">
+  <img width="600" height="800" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/blob/5b1b89f0cefa3af52506a258b1d01fad064ecef8/GP3.jpg">
+</p>
+
+<div align="center">
+
+### _NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention” on July 22, 2022, followed by their debut extended play, New Jeans, which was released on August 1, 2022._
+</div>
+
+<div align="justify">
+
+&nbsp;&nbsp;&nbsp;&nbsp;Levi's is partnering with K-pop girl group NewJeans to engage younger customers. NewJeans gained fame with hits like "Attention" and made it to the Billboard Hot 100. The collaboration signifies the group's aspiration to be as timeless as Levi's iconic 501 jeans. The Levi's Spring/Summer 2023 collection will feature a marketing campaign showcasing NewJeans' positive attitude. The group will wear Levi's 501 '81 jeans and 501 Original jeans in promotional materials. NewJeans will perform in Seoul on May 20th to celebrate 501 Day. Levi's sees the collaboration as a way to connect with NewJeans' global fanbase in an authentic manner._
+
+</div>
+
+>
+> 
+
+<div align="center">
+
+---
+
+## 𝐅𝐀𝐂𝐄 𝐑𝐄𝐂𝐎𝐆𝐍𝐈𝐓𝐈𝐎𝐍 𝐂𝐎𝐃𝐄𝐒
+
+---
+
+</div>
+
+### 📋 𝐂𝐨𝐝𝐞: 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 "𝐟𝐚𝐜𝐞_𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧"
     !git clone https://github.com/FritzGabrielPalma/Group5_Finals_FaceRecognition.git
     !pip install face_recognition
     %cd Group5_Finals_FaceRecognition
 
-### ✅𝐄𝐧𝐜𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐊𝐧𝐨𝐰𝐧 𝐅𝐚𝐜𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
+### 📋 𝐂𝐨𝐝𝐞: 𝐄𝐧𝐜𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐊𝐧𝐨𝐰𝐧 𝐅𝐚𝐜𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
     import face_recognition
     import numpy as np
     from google.colab.patches import cv2_imshow
@@ -65,13 +97,15 @@
                         "Nate Porcalla",
     ]
 
-### ✅𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 **Levi's**
+### 📋 𝐂𝐨𝐝𝐞: 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐫𝐞𝐬𝐬 𝐨𝐟 𝐋𝐞𝐯𝐢𝐬
 
 <div align="justify">
 
-💡 𝖯𝗋𝗈𝗏𝗂𝖽𝖾𝖽 𝖻𝖾𝗅𝗈𝗐 𝗂𝗌 𝖺 𝖯𝗒𝗍𝗁𝗈𝗇 𝖼𝗈𝖽𝖾 𝗍𝗁𝖺𝗍 𝗉𝖾𝗋𝖿𝗈𝗋𝗆𝗌 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗈𝗇 𝖺𝗇 𝗂𝗆𝖺𝗀𝖾 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾_𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗅𝗂𝖻𝗋𝖺𝗋𝗒 𝖺𝗇𝖽 𝖮𝗉𝖾𝗇𝖢𝖵. 𝖨𝗍 𝗅𝗈𝖺𝖽𝗌 𝖺𝗇 𝗎𝗇𝗄𝗇𝗈𝗐𝗇 𝗂𝗆𝖺𝗀𝖾, 𝖽𝖾𝗍𝖾𝖼𝗍𝗌 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝖽 𝖼𝗈𝗆𝗉𝖺𝗋𝖾𝗌 𝗍𝗁𝖾𝗂𝗋 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌 𝗐𝗂𝗍𝗁 𝖺 𝗌𝖾𝗍 𝗈𝖿 𝗄𝗇𝗈𝗐𝗇 𝖿𝖺𝖼𝖾 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌. 𝖳𝗁𝖾 𝖼𝗈𝖽𝖾 𝗍𝗁𝖾𝗇 𝖽𝗋𝖺𝗐𝗌 𝗋𝖾𝖼𝗍𝖺𝗇𝗀𝗅𝖾𝗌 𝖺𝗋𝗈𝗎𝗇𝖽 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗓𝖾𝖽 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝗇𝗈𝗍𝖺𝗍𝖾𝗌 𝗍𝗁𝖾𝗆 𝗐𝗂𝗍𝗁 𝖼𝗈𝗋𝗋𝖾𝗌𝗉𝗈𝗇𝖽𝗂𝗇𝗀 𝗇𝖺𝗆𝖾𝗌, 𝖺𝗇𝖽 𝖽𝗂𝗌𝗉𝗅𝖺𝗒𝗌 𝗍𝗁𝖾 𝗆𝗈𝖽𝗂𝖿𝗂𝖾𝖽 𝗂𝗆𝖺𝗀𝖾, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝗋𝖾𝗌𝗎𝗅𝗍𝗌 𝗈𝖿 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗉𝗋𝗈𝖼𝖾𝗌𝗌.
-> 
-💡 𝖥𝗈𝗋 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗈𝖿 𝗍𝗁𝖾 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌 𝗈𝖿 𝖧&𝖬 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉 𝗎𝗍𝗂𝗅𝗂𝗓𝖾𝖽 𝗍𝗁𝗂𝗌 𝖼𝗈𝖽𝖾 𝖻𝗈𝗍𝗁 𝖿𝗈𝗋 𝐊𝐧𝐨𝐰𝐧 𝖺𝗇𝖽 𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝗂𝖽𝖾𝗇𝗍𝗂𝗍𝗂𝖾𝗌 𝗂𝗇𝗍𝖾𝗇𝖽𝖾𝖽 𝖿𝗈𝗋 𝗍𝗁𝗂𝗌 𝖺𝖼𝗍𝗂𝗏𝗂𝗍𝗒:
+&nbsp;&nbsp;&nbsp;&nbsp;𝖯𝗋𝗈𝗏𝗂𝖽𝖾𝖽 𝖻𝖾𝗅𝗈𝗐 𝗂𝗌 𝖺 𝖯𝗒𝗍𝗁𝗈𝗇 𝖼𝗈𝖽𝖾 𝗍𝗁𝖺𝗍 𝗉𝖾𝗋𝖿𝗈𝗋𝗆𝗌 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗈𝗇 𝖺𝗇 𝗂𝗆𝖺𝗀𝖾 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾_𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗅𝗂𝖻𝗋𝖺𝗋𝗒 𝖺𝗇𝖽 𝖮𝗉𝖾𝗇𝖢𝖵. 𝖨𝗍 𝗅𝗈𝖺𝖽𝗌 𝖺𝗇 𝗎𝗇𝗄𝗇𝗈𝗐𝗇 𝗂𝗆𝖺𝗀𝖾, 𝖽𝖾𝗍𝖾𝖼𝗍𝗌 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝖽 𝖼𝗈𝗆𝗉𝖺𝗋𝖾𝗌 𝗍𝗁𝖾𝗂𝗋 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌 𝗐𝗂𝗍𝗁 𝖺 𝗌𝖾𝗍 𝗈𝖿 𝗄𝗇𝗈𝗐𝗇 𝖿𝖺𝖼𝖾 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌. 𝖳𝗁𝖾 𝖼𝗈𝖽𝖾 𝗍𝗁𝖾𝗇 𝖽𝗋𝖺𝗐𝗌 𝗋𝖾𝖼𝗍𝖺𝗇𝗀𝗅𝖾𝗌 𝖺𝗋𝗈𝗎𝗇𝖽 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗓𝖾𝖽 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝗇𝗈𝗍𝖺𝗍𝖾𝗌 𝗍𝗁𝖾𝗆 𝗐𝗂𝗍𝗁 𝖼𝗈𝗋𝗋𝖾𝗌𝗉𝗈𝗇𝖽𝗂𝗇𝗀 𝗇𝖺𝗆𝖾𝗌, 𝖺𝗇𝖽 𝖽𝗂𝗌𝗉𝗅𝖺𝗒𝗌 𝗍𝗁𝖾 𝗆𝗈𝖽𝗂𝖿𝗂𝖾𝖽 𝗂𝗆𝖺𝗀𝖾, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝗋𝖾𝗌𝗎𝗅𝗍𝗌 𝗈𝖿 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗉𝗋𝗈𝖼𝖾𝗌𝗌.
+>
+✍️To use the code below you must encode the file name of the picture to the _**[file_name = " "]**_
+>
+📌𝖥𝗈𝗋 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗈𝖿 𝗍𝗁𝖾 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽ress 𝗈𝖿 Levis 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉 𝗎𝗍𝗂𝗅𝗂𝗓𝖾𝖽 the code below 𝖿𝗈𝗋 both 𝐊𝐧𝐨𝐰𝐧 𝖺𝗇𝖽 𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝗂𝖽𝖾𝗇𝗍𝗂𝗍𝗂𝖾𝗌:
 > </div>
 
         file_name = " "
@@ -100,35 +134,7 @@
 
 ---
 
-### **Denim Fusion**: Levi's x NewJeans Unveils a Timeless Partnership
-
----
-
-</div>
-
-<p align="center">
-  <img width="600" height="800" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/blob/5b1b89f0cefa3af52506a258b1d01fad064ecef8/GP3.jpg">
-</p>
-
-<div align="center">
-
-### _NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention” on July 22, 2022, followed by their debut extended play, New Jeans, which was released on August 1, 2022._
-</div>
-
-<div align="justify">
-
-&nbsp;&nbsp;&nbsp;&nbsp;Levi's is partnering with K-pop girl group NewJeans to engage younger customers. NewJeans gained fame with hits like "Attention" and made it to the Billboard Hot 100. The collaboration signifies the group's aspiration to be as timeless as Levi's iconic 501 jeans. The Levi's Spring/Summer 2023 collection will feature a marketing campaign showcasing NewJeans' positive attitude. The group will wear Levi's 501 '81 jeans and 501 Original jeans in promotional materials. NewJeans will perform in Seoul on May 20th to celebrate 501 Day. Levi's sees the collaboration as a way to connect with NewJeans' global fanbase in an authentic manner._
-
-</div>
-
->
-> 
-
-<div align="center">
-
----
-
-### NewJeans 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
+### 𝐍𝐞𝐰𝐉𝐞𝐚𝐧𝐬 𝐗 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧
 
 ---
 
@@ -136,7 +142,7 @@
 
 
 <p align="center">
-  <img width="550" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/eb7b5bcf-f0fc-4e1a-b2a4-a371c0bdbcf5">
+  <img width="800" height="469" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/01359a7f-a6ef-42b5-bfcb-a0a6288b6fb7">
 </p>
 
 <div align="justify">
@@ -147,29 +153,27 @@
 <div align="center">
 
 ---
-
-### **Jeans That Pop**: Levi's and NewJeans Make it Simple yet Stylish
-### (𝐊𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
-
+### 𝐉𝐞𝐚𝐧𝐬 𝐓𝐡𝐚𝐭 𝐏𝐨𝐩**: 𝐋𝐞𝐯𝐢'𝐬 𝐚𝐧𝐝 𝐍𝐞𝐰𝐉𝐞𝐚𝐧𝐬 𝐌𝐚𝐤𝐞 𝐢𝐭 𝐒𝐢𝐦𝐩𝐥𝐞 𝐲𝐞𝐭 𝐒𝐭𝐲𝐥𝐢𝐬𝐡
 ---
+### 🐰(𝐊𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)🐰
+
 
 </div>  
 
 >
- 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏 (Danielle)
+𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏 (𝐃𝐀𝐍𝐈𝐄𝐋𝐋𝐄)
 >
 <div align="justify">
     
 - Embrace the trendsetting vibes with Levi's® Women's Superlow Shorts paired effortlessly with the Graphic Cindy Long-Sleeve Top, as seen on the fabulous NewJeans Danielle. Elevate your fashion game with this iconic combo that exudes style and confidence
 </div>
 
-- 𝗖𝗼𝘀𝘁: PHP 2,199 (Top)
-- 𝗖𝗼𝘀𝘁: PHP 2,499 (Bottom)
+🐰 𝗖𝗼𝘀𝘁: PHP 2,199 (Top)
+>
+🐰 𝗖𝗼𝘀𝘁: PHP 2,499 (Bottom)
 
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟏.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
-
-
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"DanielleL.jpg"**_ produces the following outcome:
 
 >
 <p align="center">
@@ -177,7 +181,7 @@
 </p>
 
 
- 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟐
+𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟐 (𝐇𝐀𝐄𝐑𝐈𝐍)
 >
 <div align="justify">
     
@@ -185,20 +189,20 @@
 
 </div>
 
-- 𝗖𝗼𝘀𝘁: PHP 1,699 (Top)
-- 𝗖𝗼𝘀𝘁: PHP 3,999 (Bottom)
-
+🐰 𝗖𝗼𝘀𝘁: PHP 1,699 (Top)
+>
+🐰 𝗖𝗼𝘀𝘁: PHP 3,999 (Bottom)
 
 > >
-📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟐.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+🥕 Utilizing the code for facial recognition and processing an image named _**"HaerinL.jpg"**_ produces the following outcome: 
 
 >
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/bd64d139-a9ef-4344-a09d-f417b70048f5">
+  <img width="600" height="799" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/2f82ddef-b7d1-4a53-bccd-8dd95fea5c4e">
 </p>
 
 
-𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟑
+𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟑 (𝐇𝐀𝐍𝐍𝐈)
 >
 <div align="justify">
     
@@ -206,192 +210,176 @@
 
 </div>
 
-- 𝗖𝗼𝘀𝘁: PHP 1,499 (Top)
-
+🐰 𝗖𝗼𝘀𝘁: PHP 1,499 (Top)
 
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟑.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"HanniLL.jpg"**_ produces the following outcome:
 
 >
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/4cb06487-589a-4f30-a58b-680a00253abf">
+  <img width="600" height="1068" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/21bf9ba8-8bf3-42cb-bbaa-0ae06557073e">
 </p>
 
 
-
-𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒
+𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟒 (𝐇𝐘𝐄𝐈𝐍)
 >
 <div align="justify">
     
 - Elevate your street style with the Levi's® Women's Nola Oversized Shirt and Baggy Cargo Pants, as worn by the trendsetter NewJeans Hyein. Embrace comfort and fashion effortlessly in this iconic duo, reflecting Hyein's signature laid-back yet chic aesthetic
 
-
 </div>
 
-- 𝗖𝗼𝘀𝘁: PHP 2,999 (Top)
-- 𝗖𝗼𝘀𝘁: PHP 2,499 (Bottom)
+🐰 𝗖𝗼𝘀𝘁: PHP 2,999 (Top)
+>
+🐰 𝗖𝗼𝘀𝘁: PHP 2,499 (Bottom)
 
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟒.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
-> >
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"HyeinL.jpg**_ produces the following outcome: 
 
-
+> 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/44e3e7db-fb5e-43a3-8104-d2aae5ed0ecd">
+  <img width="600" height="799" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/6cfe2af8-9c20-45df-b776-4c3030830a7f">
 </p>
 
 
-
- 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟓
+𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟓 (𝐌𝐈𝐍𝐉𝐈)
 >
 <div align="justify">
     
 - Own the spotlight in Levi's® Women's Ribcage Wide-Leg Jeans, as showcased by the style maven NewJeans Minji. Embrace comfort and fashion in this iconic pair, making a bold statement with every step.
 
-
 </div>
 
-- 𝗖𝗼𝘀𝘁: PHP 3,699 (Bottom)
-
+🐰 𝗖𝗼𝘀𝘁: PHP 3,699 (Bottom)
 
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠𝟓.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
-> >
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"MinjiL.jpg**_ produces the following outcome:  
 
 >
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/d72f51a6-e7d4-4616-abda-08a75f59d489">
+  <img width="600" height="799" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/a1a7dce1-bb50-418a-a747-ebd8e2baa76f">
 </p>
 
 
 <div align="center">
 
 ---    
-
-### **Worldwide Fashion Icons.: Ambassadress and Models of Levi's Clothing Brand**
-### (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
-
----    
+### 𝐖𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐈𝐜𝐨𝐧𝐬.: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐫𝐞𝐬𝐬 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐋𝐞𝐯𝐢'𝐬 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝
+--- 
+### 🐰(𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)🐰
+   
 </div>  
 
 <div align="justify">
 
-𝖳𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝗂𝗇𝖽𝗂𝗏𝗂𝖽𝗎𝖺𝗅𝗌 𝗋𝖾𝗉𝗋𝖾𝗌𝖾𝗇𝗍 𝗍𝗁𝖾 Levi's Jeans 𝖻𝗋𝖺𝗇𝖽 𝖺𝗌 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌, 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗋𝖾𝗌𝗌𝖾𝗌, 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌, 𝖾𝗇𝖼𝗈𝗆𝗉𝖺𝗌𝗌𝗂𝗇𝗀 𝖻𝗈𝗍𝗁 𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗍𝗂𝗈𝗇𝖺𝗅 𝖺𝗇𝖽 𝗅𝗈𝖼𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌. 𝖱𝖾𝗇𝗈𝗐𝗇𝖾𝖽 𝖿𝗈𝗋 𝗍𝗁𝖾𝗂𝗋 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝖼𝖾 𝖺𝗇𝖽 𝗌𝗍𝗒𝗅𝖾, 𝗍𝗁𝖾𝗌𝖾 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌 𝗉𝗅𝖺𝗒 𝖺 𝖼𝗋𝗎𝖼𝗂𝖺𝗅 𝗋𝗈𝗅𝖾 𝗂𝗇 𝗉𝗋𝗈𝗆𝗈𝗍𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖽𝗂𝗏𝖾𝗋𝗌𝖾 𝖺𝗇𝖽 𝖿𝖺𝗌𝗁𝗂𝗈𝗇𝖺𝖻𝗅𝖾 𝖺𝗉𝗉𝖺𝗋𝖾𝗅. 𝖥𝗋𝗈𝗆 𝗍𝗁𝖾 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝗍𝖺𝗀𝖾 𝗍𝗈 𝗅𝗈𝖼𝖺𝗅 𝗆𝖺𝗋𝗄𝖾𝗍𝗌, 𝗍𝗁𝖾𝗒 𝖾𝗆𝖻𝗈𝖽𝗒 𝗍𝗁𝖾 𝖾𝗍𝗁𝗈𝗌 𝗈𝖿 Levi's, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗂𝗍𝗌 𝖼𝗈𝗆𝗆𝗂𝗍𝗆𝖾𝗇𝗍 𝗍𝗈 𝗂𝗇𝖼𝗅𝗎𝗌𝗂𝗏𝗂𝗍𝗒 𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗒 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗍𝗋𝖾𝗇𝖽𝗌. 𝖳𝗁𝖾𝗂𝗋 𝖼𝗈𝗅𝗅𝖺𝖻𝗈𝗋𝖺𝗍𝗂𝗈𝗇𝗌 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾 𝗍𝗈 𝗂𝗍𝗌 𝗐𝗈𝗋𝗅𝖽𝗐𝗂𝖽𝖾 𝖺𝗉𝗉𝖾𝖺𝗅 𝖺𝗇𝖽 𝗋𝖾𝖿𝗅𝖾𝖼𝗍 𝗍𝗁𝖾 𝖽𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 Levis'𝗌 𝖼𝗎𝗌𝗍𝗈𝗆𝖾𝗋 𝖻𝖺𝗌𝖾, 𝗆𝖺𝗄𝗂𝗇𝗀 𝗍𝗁𝖾𝗆 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝗍𝗂𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌 𝗂𝗇 𝗍𝗁𝖾 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗂𝗇𝖽𝗎𝗌𝗍𝗋𝗒 𝗐𝗁𝗂𝗅𝖾 𝗋𝖾𝗂𝗇𝖿𝗈𝗋𝖼𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖼𝗈𝗇𝗇𝖾𝖼𝗍𝗂𝗈𝗇 𝗐𝗂𝗍𝗁 𝖼𝗈𝗇𝗌𝗎𝗆𝖾𝗋𝗌 𝗈𝗇 𝖺 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝖼𝖺𝗅𝖾.
+Several international stars, renowned for their influence and style, represent Levi's Jeans as ambassadors and models. These individuals play a key role in promoting the brand's diverse and fashionable apparel. From the global stage to local markets, they embody the Levi's ethos, showcasing its commitment to inclusivity and contemporary fashion trends. Their collaborations with the brand contribute to its worldwide appeal and reflect the diversity of Levi's customer base, solidifying their status as influential figures in the fashion industry while reinforcing the brand's connection with consumers worldwide.
 
 </div>
-
-<div align="center">
-
-&nbsp;    
-## "Levi's 𝙼𝚘𝚍𝚎𝚕𝚜 𝚊𝚗𝚍 𝙰𝚖𝚋𝚊𝚜𝚜𝚊𝚍res𝚜 𝚑𝚘𝚠𝚌𝚊𝚜𝚒𝚗𝚐 Levi's 𝙲𝚕𝚘𝚝𝚑𝚒𝚗𝚐 𝚊𝚌𝚛𝚘𝚜𝚜 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜."
-&nbsp;
-
+ 
 
 </div>
 
  𝐌𝐨𝐝𝐞𝐥 𝟏
 >
 > > 
- 📌 Utilizing the code for facial recognition and processing an image named "U1.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U1.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="475" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/38e310b0-810c-4581-b9b0-b0f385b5bb63">
+  <img width="600" height="900" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/3cae43c5-cdfe-4611-8879-49cf8dbab698">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟐
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U2.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U2.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="550" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/1b1a1978-7fbe-4e7c-bc2c-5fd69903b62d">
+  <img width="600" height="900" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/93e873c2-2b47-49ef-98ec-e0ffe271ef8d">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟑
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U3.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U3.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/87fff01d-a356-4e41-bc87-634d53f6ec64">
+  <img width="600" height="888" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/5f28d1e3-04ec-4b54-b103-6f69ae648df5">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟒
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U4.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U4.jpg"**_ produces the following outcome: 
 > 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/aa218896-a776-47b5-87a1-f12855dfffbd">
+  <img width="600" height="750" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/2625d872-ca23-4ffd-8c7f-ab324ba48099">
 </p>
-
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟓
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U5.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U5.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/d9030cd2-ac2f-46d1-bdc3-a46cf5b33f03">
+  <img width="408" height="544" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/f112ccb2-0128-4451-b3b0-d4e8334fb210">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟔
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U6.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U6.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="475" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/9937bc09-30e7-4867-af3b-46ef6b5ec001">
+  <img width="600" height="900" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/72638c26-5111-46e4-afad-b61f53cbd2f6">
 </p>
-
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟕
 >
 > >
- 📌 Utilizing the code for facial recognition and processing an image named "U7.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U7.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/e4575280-cdb7-4ff3-b9e7-58954a6ada83">
+  <img width="600" height="713" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/31085837-33b3-4cdf-b520-0bdae4ebc166">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟖
 >
 > > 
- 📌 Utilizing the code for facial recognition and processing an image named "U8.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U8.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/6bb55ff6-16d6-4e88-83b8-443272764bb7">
+  <img width="600" height="770" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/6fc9f0b7-ca6c-4d31-bf85-5288abdcf2aa">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟗
 >
 > > 
- 📌 Utilizing the code for facial recognition and processing an image named "U9.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U9.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/95f160ce-6160-4456-ac95-162a3cd16a25">
+  <img width="563" height="613" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/938b4a05-3cfd-4d30-8320-54df0fafbf08">
 </p>
 
 
  𝐌𝐨𝐝𝐞𝐥 𝟏𝟎
 >
 > > 
- 📌 Utilizing the code for facial recognition and processing an image named "U10.jpg" produces the following outcome: 📌
+ 🥕 Utilizing the code for facial recognition and processing an image named _**"U10.jpg"**_ produces the following outcome: 
 >
 <p align="center">
-  <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/02eea88f-b47b-423d-8f5e-f4c58f601ca5">
+  <img width="600" height="899" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/13756dc2-fb28-4d56-9a6f-790e0f4bcbb8">
 </p>
 
 ___
-## ℹ️𝐒𝐎𝐔𝐑𝐂𝐄𝐒:
+## _𝐒𝐎𝐔𝐑𝐂𝐄𝐒 🌐:_
 
 - https://twitter.com/newjeans_loop/status/1700728676680405255
 - https://kpopping.com/kpics/230520-NewJeans-Danielle-LEVI-s-Event
@@ -406,8 +394,5 @@ ___
 - https://www.levistrauss.com/2023/03/14/k-pop-group-newjeans-partners-with-levis/ 
 - https://kprofiles.com/newjeans-members-profile-facts/
 - https://www.levi.com.ph/collections/women/newjeans 
-
-
-
 
 ___
