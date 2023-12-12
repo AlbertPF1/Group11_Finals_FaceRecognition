@@ -55,9 +55,9 @@
 </div>
 
 ### 📋 𝐂𝐨𝐝𝐞: 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐈𝐦𝐚𝐠𝐞𝐬 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐆𝐢𝐭𝐡𝐮𝐛 𝐚𝐧𝐝 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐠 𝐭𝐡𝐞 "𝐟𝐚𝐜𝐞_𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧"
-    !git clone https://github.com/FritzGabrielPalma/Group5_Finals_FaceRecognition.git
+    !git clone https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition.git
     !pip install face_recognition
-    %cd Group5_Finals_FaceRecognition
+    %cd Group11_Finals_FaceRecognition
 
 ### 📋 𝐂𝐨𝐝𝐞: 𝐄𝐧𝐜𝐨𝐝𝐢𝐧𝐠 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬 𝐔𝐬𝐢𝐧𝐠 𝐊𝐧𝐨𝐰𝐧 𝐅𝐚𝐜𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
     import face_recognition
@@ -66,19 +66,19 @@
     import cv2
     
     # Creating the encoding profiles
-    face_1 = face_recognition.load_image_file("Akira Morishita.jpg")
+    face_1 = face_recognition.load_image_file("Danielle.jpeg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
     
-    face_2 = face_recognition.load_image_file("Gelo Rivera.jpg")
+    face_2 = face_recognition.load_image_file("Haerin.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
     
-    face_3 = face_recognition.load_image_file("JL Toreliza.jpg")
+    face_3 = face_recognition.load_image_file("Haerin.jpg")
     face_3_encoding = face_recognition.face_encodings(face_3)[0]
     
-    face_4 = face_recognition.load_image_file("Mikki Claver.jpg")
+    face_4 = face_recognition.load_image_file("Hyein.jpeg")
     face_4_encoding = face_recognition.face_encodings(face_4)[0]
     
-    face_5 = face_recognition.load_image_file("Nate Porcalla.jpg")
+    face_5 = face_recognition.load_image_file("Minji.jpeg")
     face_5_encoding = face_recognition.face_encodings(face_5)[0]
     
     known_face_encodings = [
@@ -90,11 +90,11 @@
     ]
     
     known_face_names = [
-                        "Akira Morishita",
-                        "Gelo Rivera",
-                        "JL Toreliza",
-                        "Mikki Claver",
-                        "Nate Porcalla",
+                        "Danielle",
+                        "Haerin",
+                        "Hanni",
+                        "Hyein",
+                        "Minji",
     ]
 
 ### 📋 𝐂𝐨𝐝𝐞: 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐫𝐞𝐬𝐬 𝐨𝐟 𝐋𝐞𝐯𝐢𝐬
