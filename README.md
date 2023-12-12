@@ -65,7 +65,7 @@
                         "Nate Porcalla",
     ]
 
-### ✅𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 𝐇&𝐌
+### ✅𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐨𝐟 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬 𝐨𝐟 **Levi's**
 
 <div align="justify">
 
@@ -100,7 +100,7 @@
 
 ---
 
-### Denim Fusion: Levi's x NewJeans Unveils a Timeless Partnership
+### **Denim Fusion**: Levi's x NewJeans Unveils a Timeless Partnership
 
 ---
 
@@ -148,7 +148,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 
 ---
 
-### 𝐁𝐆𝐘𝐎'𝐬 𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐄𝐥𝐞𝐠𝐚𝐧𝐜𝐞: 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐒𝐭𝐲𝐥𝐞 𝐢𝐧 𝐇&𝐌 𝐀𝐩𝐩𝐚𝐫𝐞𝐥
+### **Jeans That Pop**: Levi's and NewJeans Make it Simple yet Stylish
 ### (𝐊𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
 
 ---
