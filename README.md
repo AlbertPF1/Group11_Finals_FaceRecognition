@@ -107,17 +107,17 @@
 </div>
 
 <p align="center">
-  <img width="590" height="700" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/155c231b-ed60-42fc-b8d7-fc6a5998da2b">
+  <img width="600" height="800" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/blob/5b1b89f0cefa3af52506a258b1d01fad064ecef8/GP3.jpg">
 </p>
 
 <div align="center">
 
-### NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention” on July 22, 2022, followed by their debut extended play, New Jeans, which was released on August 1, 2022.
+### _NewJeans (뉴진스) is a 5-member girl group under ADOR and HYBE Labels. The members consist of Minji, Hanni, Danielle, Haerin, and Hyein. They released their debut single “Attention” on July 22, 2022, followed by their debut extended play, New Jeans, which was released on August 1, 2022._
 </div>
 
 <div align="justify">
 
-Levi's is partnering with K-pop girl group NewJeans to engage younger customers. NewJeans gained fame with hits like "Attention" and made it to the Billboard Hot 100. The collaboration signifies the group's aspiration to be as timeless as Levi's iconic 501 jeans. The Levi's Spring/Summer 2023 collection will feature a marketing campaign showcasing NewJeans' positive attitude. The group will wear Levi's 501 '81 jeans and 501 Original jeans in promotional materials. NewJeans will perform in Seoul on May 20th to celebrate 501 Day. Levi's sees the collaboration as a way to connect with NewJeans' global fanbase in an authentic manner.
+&nbsp;&nbsp;&nbsp;&nbsp;Levi's is partnering with K-pop girl group NewJeans to engage younger customers. NewJeans gained fame with hits like "Attention" and made it to the Billboard Hot 100. The collaboration signifies the group's aspiration to be as timeless as Levi's iconic 501 jeans. The Levi's Spring/Summer 2023 collection will feature a marketing campaign showcasing NewJeans' positive attitude. The group will wear Levi's 501 '81 jeans and 501 Original jeans in promotional materials. NewJeans will perform in Seoul on May 20th to celebrate 501 Day. Levi's sees the collaboration as a way to connect with NewJeans' global fanbase in an authentic manner._
 
 </div>
 
@@ -156,7 +156,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 </div>  
 
 >
- 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏
+ 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝟏 (Danielle)
 >
 <div align="justify">
     
@@ -173,7 +173,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 
 >
 <p align="center">
-  <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/013e7e6c-d92c-4c00-86d3-642062666c17">
+  <img width="600" height="799" src="https://github.com/RalphNathanDP/Group11_Finals_FaceRecognition/assets/144073436/416ff9c1-84c1-411b-9755-5f0602606444">
 </p>
 
 
