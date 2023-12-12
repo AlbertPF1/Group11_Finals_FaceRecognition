@@ -101,7 +101,7 @@
 
 <div align="justify">
 
-&nbsp;&nbsp;&nbsp;&nbsp;𝖯𝗋𝗈𝗏𝗂𝖽𝖾𝖽 𝖻𝖾𝗅𝗈𝗐 𝗂𝗌 𝖺 𝖯𝗒𝗍𝗁𝗈𝗇 𝖼𝗈𝖽𝖾 𝗍𝗁𝖺𝗍 𝗉𝖾𝗋𝖿𝗈𝗋𝗆𝗌 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗈𝗇 𝖺𝗇 𝗂𝗆𝖺𝗀𝖾 𝗎𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾_𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗅𝗂𝖻𝗋𝖺𝗋𝗒 𝖺𝗇𝖽 𝖮𝗉𝖾𝗇𝖢𝖵. 𝖨𝗍 𝗅𝗈𝖺𝖽𝗌 𝖺𝗇 𝗎𝗇𝗄𝗇𝗈𝗐𝗇 𝗂𝗆𝖺𝗀𝖾, 𝖽𝖾𝗍𝖾𝖼𝗍𝗌 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝖽 𝖼𝗈𝗆𝗉𝖺𝗋𝖾𝗌 𝗍𝗁𝖾𝗂𝗋 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌 𝗐𝗂𝗍𝗁 𝖺 𝗌𝖾𝗍 𝗈𝖿 𝗄𝗇𝗈𝗐𝗇 𝖿𝖺𝖼𝖾 𝖾𝗇𝖼𝗈𝖽𝗂𝗇𝗀𝗌. 𝖳𝗁𝖾 𝖼𝗈𝖽𝖾 𝗍𝗁𝖾𝗇 𝖽𝗋𝖺𝗐𝗌 𝗋𝖾𝖼𝗍𝖺𝗇𝗀𝗅𝖾𝗌 𝖺𝗋𝗈𝗎𝗇𝖽 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗓𝖾𝖽 𝖿𝖺𝖼𝖾𝗌, 𝖺𝗇𝗇𝗈𝗍𝖺𝗍𝖾𝗌 𝗍𝗁𝖾𝗆 𝗐𝗂𝗍𝗁 𝖼𝗈𝗋𝗋𝖾𝗌𝗉𝗈𝗇𝖽𝗂𝗇𝗀 𝗇𝖺𝗆𝖾𝗌, 𝖺𝗇𝖽 𝖽𝗂𝗌𝗉𝗅𝖺𝗒𝗌 𝗍𝗁𝖾 𝗆𝗈𝖽𝗂𝖿𝗂𝖾𝖽 𝗂𝗆𝖺𝗀𝖾, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗍𝗁𝖾 𝗋𝖾𝗌𝗎𝗅𝗍𝗌 𝗈𝖿 𝗍𝗁𝖾 𝖿𝖺𝖼𝖾 𝗋𝖾𝖼𝗈𝗀𝗇𝗂𝗍𝗂𝗈𝗇 𝗉𝗋𝗈𝖼𝖾𝗌𝗌.
+&nbsp;&nbsp;&nbsp;&nbsp;This Python program utilizes the face_recognition library and OpenCV to perform facial recognition on an image. It begins by loading an unknown image, then identifies any faces present. Using these identified faces, the program generates encodings and compares them to a pre-existing set of known face encodings. Recognized faces are then outlined with rectangles and annotated with their corresponding names. Finally, the modified image is displayed, showcasing the results of the face recognition process.
 >
 ✍️To use the code below you must encode the file name of the picture to the _**[file_name = " "]**_
 >
