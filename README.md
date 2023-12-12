@@ -268,7 +268,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 
 ---    
 
-### 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥 𝐒𝐭𝐲𝐥𝐞 𝐈𝐜𝐨𝐧𝐬: 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫𝐬, 𝐚𝐧𝐝 𝐌𝐨𝐝𝐞𝐥𝐬 𝐨𝐟 𝐇&𝐌 𝐂𝐥𝐨𝐭𝐡𝐢𝐧𝐠 𝐁𝐫𝐚𝐧𝐝 
+### **Worldwide Fashion Icons.: Ambassadress and Models of Levi's Clothing Brand**
 ### (𝐔𝐧𝐤𝐧𝐨𝐰𝐧 𝐱 𝐅𝐚𝐜𝐞 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧)
 
 ---    
@@ -276,14 +276,14 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 
 <div align="justify">
 
-𝖳𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝗂𝗇𝖽𝗂𝗏𝗂𝖽𝗎𝖺𝗅𝗌 𝗋𝖾𝗉𝗋𝖾𝗌𝖾𝗇𝗍 𝗍𝗁𝖾 𝖧&𝖬 𝖢𝗅𝗈𝗍𝗁𝗂𝗇𝗀 𝖻𝗋𝖺𝗇𝖽 𝖺𝗌 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌, 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗋𝖾𝗌𝗌𝖾𝗌, 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌, 𝖾𝗇𝖼𝗈𝗆𝗉𝖺𝗌𝗌𝗂𝗇𝗀 𝖻𝗈𝗍𝗁 𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗍𝗂𝗈𝗇𝖺𝗅 𝖺𝗇𝖽 𝗅𝗈𝖼𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌. 𝖱𝖾𝗇𝗈𝗐𝗇𝖾𝖽 𝖿𝗈𝗋 𝗍𝗁𝖾𝗂𝗋 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝖼𝖾 𝖺𝗇𝖽 𝗌𝗍𝗒𝗅𝖾, 𝗍𝗁𝖾𝗌𝖾 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌 𝗉𝗅𝖺𝗒 𝖺 𝖼𝗋𝗎𝖼𝗂𝖺𝗅 𝗋𝗈𝗅𝖾 𝗂𝗇 𝗉𝗋𝗈𝗆𝗈𝗍𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖽𝗂𝗏𝖾𝗋𝗌𝖾 𝖺𝗇𝖽 𝖿𝖺𝗌𝗁𝗂𝗈𝗇𝖺𝖻𝗅𝖾 𝖺𝗉𝗉𝖺𝗋𝖾𝗅. 𝖥𝗋𝗈𝗆 𝗍𝗁𝖾 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝗍𝖺𝗀𝖾 𝗍𝗈 𝗅𝗈𝖼𝖺𝗅 𝗆𝖺𝗋𝗄𝖾𝗍𝗌, 𝗍𝗁𝖾𝗒 𝖾𝗆𝖻𝗈𝖽𝗒 𝗍𝗁𝖾 𝖾𝗍𝗁𝗈𝗌 𝗈𝖿 𝖧&𝖬, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗂𝗍𝗌 𝖼𝗈𝗆𝗆𝗂𝗍𝗆𝖾𝗇𝗍 𝗍𝗈 𝗂𝗇𝖼𝗅𝗎𝗌𝗂𝗏𝗂𝗍𝗒 𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗒 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗍𝗋𝖾𝗇𝖽𝗌. 𝖳𝗁𝖾𝗂𝗋 𝖼𝗈𝗅𝗅𝖺𝖻𝗈𝗋𝖺𝗍𝗂𝗈𝗇𝗌 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾 𝗍𝗈 𝗂𝗍𝗌 𝗐𝗈𝗋𝗅𝖽𝗐𝗂𝖽𝖾 𝖺𝗉𝗉𝖾𝖺𝗅 𝖺𝗇𝖽 𝗋𝖾𝖿𝗅𝖾𝖼𝗍 𝗍𝗁𝖾 𝖽𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 𝖧&𝖬'𝗌 𝖼𝗎𝗌𝗍𝗈𝗆𝖾𝗋 𝖻𝖺𝗌𝖾, 𝗆𝖺𝗄𝗂𝗇𝗀 𝗍𝗁𝖾𝗆 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝗍𝗂𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌 𝗂𝗇 𝗍𝗁𝖾 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗂𝗇𝖽𝗎𝗌𝗍𝗋𝗒 𝗐𝗁𝗂𝗅𝖾 𝗋𝖾𝗂𝗇𝖿𝗈𝗋𝖼𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖼𝗈𝗇𝗇𝖾𝖼𝗍𝗂𝗈𝗇 𝗐𝗂𝗍𝗁 𝖼𝗈𝗇𝗌𝗎𝗆𝖾𝗋𝗌 𝗈𝗇 𝖺 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝖼𝖺𝗅𝖾.
+𝖳𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀 𝗂𝗇𝖽𝗂𝗏𝗂𝖽𝗎𝖺𝗅𝗌 𝗋𝖾𝗉𝗋𝖾𝗌𝖾𝗇𝗍 𝗍𝗁𝖾 Levi's Jeans 𝖻𝗋𝖺𝗇𝖽 𝖺𝗌 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌, 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗋𝖾𝗌𝗌𝖾𝗌, 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌, 𝖾𝗇𝖼𝗈𝗆𝗉𝖺𝗌𝗌𝗂𝗇𝗀 𝖻𝗈𝗍𝗁 𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗍𝗂𝗈𝗇𝖺𝗅 𝖺𝗇𝖽 𝗅𝗈𝖼𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌. 𝖱𝖾𝗇𝗈𝗐𝗇𝖾𝖽 𝖿𝗈𝗋 𝗍𝗁𝖾𝗂𝗋 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝖼𝖾 𝖺𝗇𝖽 𝗌𝗍𝗒𝗅𝖾, 𝗍𝗁𝖾𝗌𝖾 𝖺𝗆𝖻𝖺𝗌𝗌𝖺𝖽𝗈𝗋𝗌 𝖺𝗇𝖽 𝗆𝗈𝖽𝖾𝗅𝗌 𝗉𝗅𝖺𝗒 𝖺 𝖼𝗋𝗎𝖼𝗂𝖺𝗅 𝗋𝗈𝗅𝖾 𝗂𝗇 𝗉𝗋𝗈𝗆𝗈𝗍𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖽𝗂𝗏𝖾𝗋𝗌𝖾 𝖺𝗇𝖽 𝖿𝖺𝗌𝗁𝗂𝗈𝗇𝖺𝖻𝗅𝖾 𝖺𝗉𝗉𝖺𝗋𝖾𝗅. 𝖥𝗋𝗈𝗆 𝗍𝗁𝖾 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝗍𝖺𝗀𝖾 𝗍𝗈 𝗅𝗈𝖼𝖺𝗅 𝗆𝖺𝗋𝗄𝖾𝗍𝗌, 𝗍𝗁𝖾𝗒 𝖾𝗆𝖻𝗈𝖽𝗒 𝗍𝗁𝖾 𝖾𝗍𝗁𝗈𝗌 𝗈𝖿 Levi's, 𝗌𝗁𝗈𝗐𝖼𝖺𝗌𝗂𝗇𝗀 𝗂𝗍𝗌 𝖼𝗈𝗆𝗆𝗂𝗍𝗆𝖾𝗇𝗍 𝗍𝗈 𝗂𝗇𝖼𝗅𝗎𝗌𝗂𝗏𝗂𝗍𝗒 𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗒 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗍𝗋𝖾𝗇𝖽𝗌. 𝖳𝗁𝖾𝗂𝗋 𝖼𝗈𝗅𝗅𝖺𝖻𝗈𝗋𝖺𝗍𝗂𝗈𝗇𝗌 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽 𝖼𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝖾 𝗍𝗈 𝗂𝗍𝗌 𝗐𝗈𝗋𝗅𝖽𝗐𝗂𝖽𝖾 𝖺𝗉𝗉𝖾𝖺𝗅 𝖺𝗇𝖽 𝗋𝖾𝖿𝗅𝖾𝖼𝗍 𝗍𝗁𝖾 𝖽𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 Levis'𝗌 𝖼𝗎𝗌𝗍𝗈𝗆𝖾𝗋 𝖻𝖺𝗌𝖾, 𝗆𝖺𝗄𝗂𝗇𝗀 𝗍𝗁𝖾𝗆 𝗂𝗇𝖿𝗅𝗎𝖾𝗇𝗍𝗂𝖺𝗅 𝖿𝗂𝗀𝗎𝗋𝖾𝗌 𝗂𝗇 𝗍𝗁𝖾 𝖿𝖺𝗌𝗁𝗂𝗈𝗇 𝗂𝗇𝖽𝗎𝗌𝗍𝗋𝗒 𝗐𝗁𝗂𝗅𝖾 𝗋𝖾𝗂𝗇𝖿𝗈𝗋𝖼𝗂𝗇𝗀 𝗍𝗁𝖾 𝖻𝗋𝖺𝗇𝖽'𝗌 𝖼𝗈𝗇𝗇𝖾𝖼𝗍𝗂𝗈𝗇 𝗐𝗂𝗍𝗁 𝖼𝗈𝗇𝗌𝗎𝗆𝖾𝗋𝗌 𝗈𝗇 𝖺 𝗀𝗅𝗈𝖻𝖺𝗅 𝗌𝖼𝖺𝗅𝖾.
 
 </div>
 
 <div align="center">
 
 &nbsp;    
-## "𝙷&𝙼'𝚜 𝙼𝚘𝚍𝚎𝚕𝚜 𝚊𝚗𝚍 𝙰𝚖𝚋𝚊𝚜𝚜𝚊𝚍𝚘𝚛𝚜 𝚜𝚑𝚘𝚠𝚌𝚊𝚜𝚒𝚗𝚐 𝙷&𝙼'𝚜 𝙲𝚕𝚘𝚝𝚑𝚒𝚗𝚐 𝚊𝚌𝚛𝚘𝚜𝚜 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜."
+## "Levi's 𝙼𝚘𝚍𝚎𝚕𝚜 𝚊𝚗𝚍 𝙰𝚖𝚋𝚊𝚜𝚜𝚊𝚍res𝚜 𝚑𝚘𝚠𝚌𝚊𝚜𝚒𝚗𝚐 Levi's 𝙲𝚕𝚘𝚝𝚑𝚒𝚗𝚐 𝚊𝚌𝚛𝚘𝚜𝚜 𝚟𝚊𝚛𝚒𝚘𝚞𝚜 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜."
 &nbsp;
 
 
@@ -292,7 +292,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟏
 >
 > > 
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟏.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U1.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="475" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/38e310b0-810c-4581-b9b0-b0f385b5bb63">
@@ -302,7 +302,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟐
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟐.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U2.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="550" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/1b1a1978-7fbe-4e7c-bc2c-5fd69903b62d">
@@ -312,7 +312,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟑
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟑.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U3.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="600" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/87fff01d-a356-4e41-bc87-634d53f6ec64">
@@ -322,7 +322,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟒
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟒.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U4.jpg" produces the following outcome: 📌
 > 
 <p align="center">
   <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/aa218896-a776-47b5-87a1-f12855dfffbd">
@@ -333,7 +333,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟓
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟓.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U5.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="600" height="400" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/d9030cd2-ac2f-46d1-bdc3-a46cf5b33f03">
@@ -343,7 +343,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟔
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟔.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U6.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="475" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/9937bc09-30e7-4867-af3b-46ef6b5ec001">
@@ -354,7 +354,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟕
 >
 > >
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟕.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U7.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/e4575280-cdb7-4ff3-b9e7-58954a6ada83">
@@ -364,7 +364,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟖
 >
 > > 
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟖.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U8.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="510" height="600" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/6bb55ff6-16d6-4e88-83b8-443272764bb7">
@@ -374,7 +374,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟗
 >
 > > 
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟗.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U9.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/95f160ce-6160-4456-ac95-162a3cd16a25">
@@ -384,7 +384,7 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
  𝐌𝐨𝐝𝐞𝐥 𝟏𝟎
 >
 > > 
- 📌 𝑈𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑐𝑜𝑑𝑒 𝑎𝑏𝑜𝑣𝑒 𝑓𝑜𝑟 𝑓𝑎𝑐𝑒 𝑟𝑒𝑐𝑜𝑔𝑛𝑖𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑖𝑚𝑎𝑔𝑒 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒 𝑓𝑖𝑙𝑒 𝑛𝑎𝑚𝑒 "𝐌𝟏𝟎.𝐣𝐩𝐠" 𝑡ℎ𝑒 𝑜𝑢𝑡𝑐𝑜𝑚𝑒 𝑟𝑒𝑠𝑢𝑙𝑡 𝑖𝑠: 📌
+ 📌 Utilizing the code for facial recognition and processing an image named "U10.jpg" produces the following outcome: 📌
 >
 <p align="center">
   <img width="500" height="550" src="https://github.com/John-Rey-Decano/Group5_Finals_FaceRecognition/assets/143807174/02eea88f-b47b-423d-8f5e-f4c58f601ca5">
@@ -392,21 +392,22 @@ Levi's is partnering with K-pop girl group NewJeans to engage younger customers.
 
 ___
 ## ℹ️𝐒𝐎𝐔𝐑𝐂𝐄𝐒:
-- https://www.lofficielph.com/fashion/p-pop-group-bgyo-become-h-and-m-s-newest-ambassadors
-- https://www2.hm.com/en_au/productpage.1014082002.html
-- https://pin.it/3s0n2HN
-- https://pin.it/5bP3nss
-- https://pin.it/7Bg9blk
-- https://pin.it/1bDaRFS
-- https://pin.it/6vBoJZr
-- https://brignews.com/2015/12/17/mens-christmas-wear-from-hm-2/
-- https://fashionablymale.net/2015/03/09/hm-springsummer-2015-campaign/
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fhmphilippines%2Fstatus%2F1525778034900537345&psig=AOvVaw1IEQFA6WYupgcpiHPVDME2&ust=1702371033766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjZw8KAh4MDFQAAAAAdAAAAABAD
-- https://lifestyle.inquirer.net/341986/kobe-paras-is-fashions-newest-mvp-with-hm-collaboration/
-- https://pausemag.co.uk/2022/07/hm-name-munya-chawawa-as-uk-menswear-ambassador-for-2022/
-- https://www.malemodelscene.net/menswear/piero-mendez-hm-fall-2022/
-- https://models.com/work/hm-hm-men-spring-2018-
-- https://www.thefashionisto.com/hm-men-spring-2018-arrivals-campaign/
-- https://www.thefashionisto.com/hm-men-spring-2018-arrivals-campaign/
-- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNC20-srYX9cwb3RK0Vannni6vvOSXwlVkRBde2kPfm9wleY9
+
+- https://twitter.com/newjeans_loop/status/1700728676680405255
+- https://kpopping.com/kpics/230520-NewJeans-Danielle-LEVI-s-Event
+- https://twitter.com/newjeans_loop/status/1700729048253821301
+- https://kpopping.com/kpics/230520-NEWJEANS-Haerin-at-Levi-s-music-concert 
+- https://www.pinterest.ph/pin/832954893607843554/
+- https://twitter.com/newjeans_loop/status/1644165265289261056 
+- https://www.pinterest.ph/pin/475974254383765922/ 
+- https://kpopping.com/kpics/230520-NewJeans-Hyein-LEVI-s-Event 
+- https://www.pinterest.ph/pin/773282198542729290/ 
+- https://kpopping.com/kpics/230520-NewJeans-Minji-LEVI-s-Event 
+- https://www.levistrauss.com/2023/03/14/k-pop-group-newjeans-partners-with-levis/ 
+- https://kprofiles.com/newjeans-members-profile-facts/
+- https://www.levi.com.ph/collections/women/newjeans 
+
+
+
+
 ___
